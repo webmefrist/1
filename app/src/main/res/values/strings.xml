@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugaskedua</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="area">Area</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="email">Email</string>
+</resources>
